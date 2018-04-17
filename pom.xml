@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>io.pivotal.education.boot</groupId>
+    <artifactId>parentProject</artifactId>
+    <version>1.0.a.RELEASE</version>
+    <packaging>pom</packaging>
+    <properties/>
+    <dependencies/>
+    <!-- ****************************************************************** 
+		END OF OPTIONAL DEPENDENCIES
+		****************************************************************** -->
+    <modules>
+        <!--
+          // DO NOT MODIFY THESE MODULE ELEMENTS - GENERATED AUTOMATICALLY
+          -->
+        <!-- Section: instructor -->
+        <!-- Section: intro -->
+        <!-- Section: Day 1 -->
+        <!-- Section: Day 2 -->
+        <!-- Section: finish -->
+        <!-- Section: appendix -->
+    </modules>
+</project>

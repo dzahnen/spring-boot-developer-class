@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSets>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1523367382477_1" label="01-spring-framework" name="01-spring-framework">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-framework" type="2"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1523367414946_2" label="02-overview" name="02-overview">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-overview" type="2"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1523367442133_3" label="03-internals" name="03-internals">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-internals/directory-web-internals" type="2"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1523367462231_4" label="04-features" name="04-features">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-features/directory-web-features" type="2"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1523367483974_5" label="05-web" name="05-web">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-web/code-snippet-manager" type="2"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1523367511996_6" label="06-data" name="06-data">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-data/code-snippet-manager-jdbc" type="2"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-data/code-snippet-manager-jpa" type="2"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-data/code-snippet-manager-jpa-rest" type="2"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1523367528742_7" label="07-testing" name="07-testing">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-test/code-snippet-manager-jpa-rest-test" type="2"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1523367545200_8" label="08-actuator" name="08-actuator">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-actuator/code-snippet-manager-actuator" type="2"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1523367569168_9" label="09-security" name="09-security">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-security/code-snippet-manager-security" type="2"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-security/directory-web-security" type="2"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1523367585578_10" label="10-messaging" name="10-messaging">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-messaging/code-snippet-manager-amqp" type="2"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-1.5/spring-boot-messaging/snippet-amqp-client" type="2"/>
+</workingSet>
+</workingSets>
